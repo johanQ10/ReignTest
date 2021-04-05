@@ -31,7 +31,7 @@ class RetrofitModule {
 
     @AppScope
     @Provides
-    fun provideCache(cacheFile: File) = Cache(cacheFile, 10 * 1024 * 1024) //10MB Cahe
+    fun provideCache(cacheFile: File) = Cache(cacheFile, 10 * 1024 * 1024)
 
     @AppScope
     @Provides
