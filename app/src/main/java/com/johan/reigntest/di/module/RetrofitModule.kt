@@ -27,7 +27,7 @@ class RetrofitModule {
 
     @AppScope
     @Provides
-    fun provideCacheFile(@ApplicationContext context: Context): File = File(context.cacheDir,"prueba")
+    fun provideCacheFile(@ApplicationContext context: Context): File = File(context.cacheDir,"test")
 
     @AppScope
     @Provides
