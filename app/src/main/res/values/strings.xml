@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reign Test</string>
+    <string name="logo_reign">Logo Reign</string>
+    <string name="hit_info">%1$s - %2$s</string>
+    <string name="not_found">Not found</string>
+    <string name="delete">Delete</string>
+    <string name="item_removed">Item removed</string>
+    <string name="no_internet">No internet connection</string>
+</resources>
